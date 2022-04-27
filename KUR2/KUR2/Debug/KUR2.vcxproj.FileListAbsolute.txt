@@ -1,0 +1,3 @@
+B:\Проекты\ВЫЧФИЗ\KUR2\KUR2\Debug\KUR2.vcxproj.AssemblyReference.cache
+B:\Проекты\ВЫЧФИЗ\KUR2\KUR2\Debug\KUR2.ANIME.resources
+B:\Проекты\ВЫЧФИЗ\KUR2\KUR2\Debug\KUR2.vcxproj.GenerateResource.cache
