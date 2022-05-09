@@ -1,0 +1,9 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Введение}{2}{section.1}%
+\contentsline {section}{\numberline {2}Уравнения движения}{3}{section.2}%
+\contentsline {section}{\numberline {3}Метод Рунге-Кутты}{5}{section.3}%
+\contentsline {section}{\numberline {4}Результаты}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Траектории}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Фазовые портреты}{7}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Заключение}{8}{section.5}%
+\contentsline {section}{Список литературы}{10}{section*.2}%
